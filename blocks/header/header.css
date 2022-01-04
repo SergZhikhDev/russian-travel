@@ -1,0 +1,24 @@
+.header {
+    margin: 0;
+    padding: 0 48px;
+    width: 100%;
+    color: #fff;
+    background-color: #2A2C2F;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: flex-end;
+    align-content: flex-end;
+}
+
+@media screen and (max-width: 769px) {
+    .header {
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .header {
+        padding: 0 16px;
+    }
+}

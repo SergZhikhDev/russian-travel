@@ -1,0 +1,25 @@
+.photo-grid__image{
+  margin: 0;
+  padding: 0;
+  max-height: 213px;
+  width: 100%;
+}
+
+@media screen and (max-width: 1025px) {
+  .photo-grid__image{
+    max-height: 225px;
+  }
+}
+
+
+@media screen and (max-width: 769px) {
+  .photo-grid__image{
+    max-height: 264px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .photo-grid__image{
+    max-height: 216px;
+  }
+}
