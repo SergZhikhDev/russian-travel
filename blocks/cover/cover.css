@@ -6,6 +6,7 @@
 
 @media screen and (max-width: 1025px) {
     .cover {
+        width: calc(100% - 1px);
         padding: 0;
     }
 }
