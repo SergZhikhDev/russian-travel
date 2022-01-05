@@ -1,5 +1,4 @@
-
-.place__paragraphs{
+.place__paragraphs {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -11,30 +10,22 @@
 }
 
 @media screen and (max-width: 1025px) {
-  .place__paragraphs{
-    max-width: 456px;
-
-  }
+    .place__paragraphs {
+        max-width: 456px;
+    }
 }
 
 @media screen and (max-width: 541px) {
-  .place__paragraph{
-    margin: 0 0 24px 0;
-    font-size: 14px;
-    line-height: 1.6;
-  }
+    .place__paragraph {
+        margin: 0 0 24px 0;
+        font-size: 14px;
+        line-height: 1.6;
+    }
 }
 
-@media screen and (max-width: 769px) {
-  .place__paragraphs{
-    max-width: 352px;
-
-  }
-}
-
-@media screen and (max-width: 321px) {
-  .place__paragraphs{
-    max-width: 320px;
-    padding: 0 16px;
-  }
+@media screen and (max-width: 425px) {
+    .place__paragraphs {
+        max-width: 425px;
+        padding: 0 16px;
+    }
 }
