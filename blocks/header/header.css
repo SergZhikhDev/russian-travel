@@ -1,25 +1,25 @@
 .header {
-    margin: 0;
-    padding: 0 48px;
-    width: 100%;
-    color: #fff;
-    background-color: #2A2C2F;
-    display: flex;
-    flex-direction: row;
-    box-sizing: border-box;
-    align-items: flex-end;
-    align-content: flex-end;
+  margin: 0;
+  padding: 0 48px;
+  width: 100%;
+  color: #fff;
+  background-color: #2a2c2f;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-end;
+  align-content: flex-end;
 }
 
 @media screen and (max-width: 769px) {
-    .header {
-        padding: 0 24px;
-    }
+  .header {
+    padding: 0 24px;
+  }
 }
 
 @media screen and (max-width: 425px) {
-    .header {
-        padding: 0 16px;
-        width: calc(100% - 1px);
-    }
+  .header {
+    padding: 0 16px;
+    width: calc(100% - 1px);
+  }
 }

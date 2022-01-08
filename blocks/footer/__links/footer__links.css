@@ -1,4 +1,4 @@
-.footer__links{
+.footer__links {
   margin: 0 18px 0 0;
   padding: 0;
   display: flex;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 541px) {
-  .footer__links{
+  .footer__links {
     margin: 0 0 16px 0;
     max-width: 100%;
     display: flex;
@@ -15,4 +15,3 @@
     align-items: flex-start;
   }
 }
-

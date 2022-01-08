@@ -1,32 +1,27 @@
 .header__lang-link {
-    color: #fff;
-    margin: 18px 0px 6px 18px;
-    width: 30px;
-    height: 28px;
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 24px;
-    text-align: right;
-    text-decoration: none;
-    transition: opacity 1s linear 0s;
-    line-height: 1.17;
-}
-
-.header__lang-link_active {
-    text-decoration: underline;
+  color: #fff;
+  margin: 18px 0px 6px 18px;
+  width: 30px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: right;
+  text-decoration: none;
+  transition: opacity 1s linear 0s;
+  line-height: 1.17;
 }
 
 .header__lang-link:hover {
-    opacity: 0.3;
+  opacity: 0.3;
 }
 
 @media screen and (max-width: 425px) {
-    .header__lang-link {
-        margin: 14px 0px 8px 18px;
-        width: 22px;
-        height: 20px;
-        font-size: 18px;
-        line-height: 1.11;
-    }
+  .header__lang-link {
+    margin: 14px 0px 8px 18px;
+    width: 22px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 1.11;
+  }
 }
