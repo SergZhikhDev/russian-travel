@@ -26,6 +26,5 @@
 @media screen and (max-width: 426px) {
   .places {
     padding: 0 0 16px;
-    width: calc(100% - 1px);
   }
 }

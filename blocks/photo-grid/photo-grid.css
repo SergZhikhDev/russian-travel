@@ -29,7 +29,7 @@
 @media screen and (max-width: 425px) {
   .photo-grid {
     padding: 64px 16px;
-    width: calc(100% - 1px);
+    width: 100%;
     /* width: 100%; */
     display: grid;
     grid-template-columns: 1fr;
