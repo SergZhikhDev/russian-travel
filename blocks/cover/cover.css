@@ -49,7 +49,7 @@
 
 @media screen and (max-width: 321px) {
   .cover {
-    max-width: 320x;
+    max-width: 320px;
     min-height: 200px;
   }
 }
