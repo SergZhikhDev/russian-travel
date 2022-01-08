@@ -12,5 +12,5 @@
 * Markdown
 
 
-* [Ссылка на проект в Git Hub Pages](https://234349.github.io/)
+* [Ссылка на проект в Git Hub Pages]()
 # russian-travel
