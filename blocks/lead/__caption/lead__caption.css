@@ -1,7 +1,7 @@
 .lead__caption {
   padding: 0;
   margin: 0 auto 0 0;
-  font-family: Inter;
+  font-family: inherit;
   font-style: normal;
   font-weight: normal;
   font-size: 10px;

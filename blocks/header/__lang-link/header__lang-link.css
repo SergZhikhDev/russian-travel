@@ -1,7 +1,7 @@
 .header__lang-link {
   color: #fff;
   margin: 18px 0px 6px 18px;
-  font-family: Inter;
+  font-family: inherit;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -18,8 +18,6 @@
 @media screen and (max-width: 425px) {
   .header__lang-link {
     margin: 14px 0px 8px 18px;
-    width: 22px;
-    height: 20px;
     font-size: 18px;
     line-height: 1.11;
   }
